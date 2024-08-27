@@ -19,7 +19,7 @@
     "readable-stream": "^1.1.12",
     "tildify": "~1.0.0",
     "v8flags": "^2.0.2",
-    "webpack": "1.8.11"
+    "webpack": "5.94.0"
   },
   "devDependencies": {
     "JSONStream": "^1.0.3",
